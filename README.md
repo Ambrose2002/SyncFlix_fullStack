@@ -1,3 +1,4 @@
+<img width="1460" alt="Screenshot 2024-09-01 at 3 07 14 PM" src="https://github.com/user-attachments/assets/3d8bc00b-77d1-4640-88b8-612adb0cb3bf">
 
 # SyncFlix
 
@@ -89,7 +90,6 @@ http://localhost:your_port
 ### Joining a room
     1. On the Home page, paste Room Id into the Join Room text box
     2. Click on Join Room
-<img width="1460" alt="Screenshot 2024-09-01 at 3 07 14 PM" src="https://github.com/user-attachments/assets/3d8bc00b-77d1-4640-88b8-612adb0cb3bf">
 
 
 
