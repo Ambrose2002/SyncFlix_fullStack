@@ -36,7 +36,7 @@ SyncFlix is a real-time video streaming web application that allows users to cre
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Ambrose2002/SyncFlix_fullStack.git
-   cd SyncFlix
+   cd SyncFlix_fullStack
     ```
 2. **Install client and server dependencies:**
 ```bash
