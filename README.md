@@ -106,11 +106,6 @@ Contributions are always welcome!
 Please adhere to this project's `code of conduct`.
 
 
-## License
-
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
-
-
 ## Contact
 
 For questions or feedback, please contact [Ambrose Blay](mailto:ambrose2002blay@gmail.com.com).
