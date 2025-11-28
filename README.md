@@ -91,21 +91,4 @@ http://localhost:your_port
     1. On the Home page, paste Room Id into the Join Room text box
     2. Click on Join Room
 
-
-
-## Contributing
-
-Contributions are always welcome!
-
-   1. Fork the repository.
-   2.	Create a new branch (git checkout -b feature/your-feature).
-   3.	Make your changes and commit them (git commit -m 'Add new feature').
-   4.	Push to the branch (git push origin feature/your-feature).
-   5.	Open a pull request.
-
-Please adhere to this project's `code of conduct`.
-
-
-## Contact
-
 For questions or feedback, please contact [Ambrose Blay](mailto:ambrose2002blay@gmail.com.com).
